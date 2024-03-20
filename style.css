@@ -5,7 +5,7 @@
     list-style-type: none;
 }
 body {
-    background-image: url(img/index/SL-093020-35920-01.jpg);
+    background-image: url(SL-093020-35920-01.jpg);
     background-attachment: fixed;
     background-size: cover;
     font-family:century;
@@ -104,7 +104,7 @@ img{
     margin: 0;
     padding: 0; 
     background-size: cover;
-    background-image: url(img/index/SL-093020-35920-01.jpg);
+    background-image: url(SL-093020-35920-01.jpg);
     font-family: century;
 }
 .navbar1{
